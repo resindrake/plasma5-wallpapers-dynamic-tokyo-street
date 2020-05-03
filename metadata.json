@@ -1,0 +1,49 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "resin@resindrake.net",
+                "Name": "Resin Drake"
+            }
+        ],
+        "Id": "6aae1f1b-950c-4f65-ab47-8d73a9dc2fd7",
+        "Name": "Tokyo Street by ArseniXC"
+    },
+    "Wallpaper": {
+        "Preview": "tokyo-street-day.jpg",
+        "Smooth": true,
+        "Type": "solar",
+        "MetaData": [
+            {
+                "Azimuth": 74,
+                "Elevation": -6,
+                "FileName": "tokyo-street-night.jpg"
+            },
+            {
+                "Azimuth": 71.6,
+                "Elevation": -0.53,
+                "FileName": "tokyo-street-sunset.jpg"
+            },
+            {
+                "Azimuth": 67.48,
+                "Elevation": 4.91,
+                "FileName": "tokyo-street-day.jpg"
+            },
+            {
+                "Azimuth": 292.9,
+                "Elevation": 5.21,
+                "FileName": "tokyo-street-day.jpg"
+            },
+            {
+                "Azimuth": 288.64,
+                "Elevation": -0.34,
+                "FileName": "tokyo-street-sunset.jpg"
+            },
+            {
+                "Azimuth": 284.58,
+                "Elevation": -6.69,
+                "FileName": "tokyo-street-night.jpg"
+            }
+        ]
+    }
+}
