@@ -4,6 +4,9 @@ Size: **1920x1080p**
 Made for use with [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic) (solar)  
 ![](https://github.com/resindrake/plasma5-wallpapers-dynamic-tokyo-street/blob/master/contents/images/tokyo-street-preview.jpg)
 ### Image Sources
-https://www.deviantart.com/arsenixc/art/Tokyo-street-636792646  
-https://www.deviantart.com/arsenixc/art/Tokyo-Street-Sunset-680726181  
-https://www.deviantart.com/arsenixc/art/Tokyo-Street-Night-684804497  
+* https://www.deviantart.com/arsenixc/art/Tokyo-street-636792646  
+* https://www.deviantart.com/arsenixc/art/Tokyo-Street-Sunset-680726181  
+* https://www.deviantart.com/arsenixc/art/Tokyo-Street-Night-684804497  
+### See Also
+* [Restaurant Street Dynamic Wallpaper](https://github.com/resindrake/plasma5-wallpapers-dynamic-restaurant-street)  
+* [Old House Dynamic Wallpaper](https://github.com/resindrake/plasma5-wallpapers-dynamic-old-house)  
