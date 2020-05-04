@@ -11,3 +11,4 @@ Made for use with [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plas
 ### See Also
 * [Restaurant Street Dynamic Wallpaper](https://github.com/resindrake/plasma5-wallpapers-dynamic-restaurant-street)  
 * [Old House Dynamic Wallpaper](https://github.com/resindrake/plasma5-wallpapers-dynamic-old-house)  
+* [Additional Wallpapers](https://github.com/zzag/plasma5-wallpapers-dynamic/wiki/Additional-Wallpapers)
