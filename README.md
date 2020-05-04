@@ -1,7 +1,8 @@
 # Tokyo Street Dynamic Wallpaper
 ### Art by [ArseniXC](https://www.deviantart.com/arsenixc/gallery)  
 Size: **1920x1080p**  
-Made for use with [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic) (solar)  
+This wallpaper uses the position of the **sun** to dynamically change between the day, sunset and night variants.  
+Made for use with [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic). See their instructions for installation.  
 ![](https://github.com/resindrake/plasma5-wallpapers-dynamic-tokyo-street/blob/master/contents/images/tokyo-street-preview.jpg)
 ### Image Sources
 * https://www.deviantart.com/arsenixc/art/Tokyo-street-636792646  
